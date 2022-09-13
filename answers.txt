@@ -1,3 +1,4 @@
 1.AS product owner, i need to set the direction for the team, handle release management and stakeholder management
 2.scrum master should faciliates sprints and meetings and taking care of JIRA tooling, standups all done
 3.during Sprint Planning meeting, we need to determine what to complete in the coming sprint, and start sprint; during  daily scrum/standup meeting, the meeting should be 10mins long, members should discuss the work completed
+4.Epic is the large body of the work, bugs and stories are issues, and the task divided the epic to smaller
