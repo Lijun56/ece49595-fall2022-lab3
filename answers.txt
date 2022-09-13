@@ -1,1 +1,2 @@
 1.AS product owner, i need to set the direction for the team, handle release management and stakeholder management
+2.scrum master should faciliates sprints and meetings and taking care of JIRA tooling, standups all done
